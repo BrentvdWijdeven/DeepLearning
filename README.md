@@ -1,2 +1,2 @@
 # DeepLearning
-JADS course Deep Learning individual assignment
+JADS course: Deep Learning, individual assignment
